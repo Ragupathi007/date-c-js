@@ -1,0 +1,24 @@
+{
+  "name": "date-c-package",
+  "version": "1.0.0",
+  "description": "this is a monthly date calculator concept using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragupathi007/date-c-js.git"
+  },
+  "keywords": [
+    "monthly",
+    "date",
+    "calculator"
+  ],
+  "author": "ravidan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragupathi007/date-c-js/issues"
+  },
+  "homepage": "https://github.com/Ragupathi007/date-c-js#readme"
+}
